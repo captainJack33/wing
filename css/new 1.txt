@@ -1,0 +1,25 @@
+Hi Rob,
+
+I have been playing with GDELT and examples shared on their site. 
+
+I see below issues:
+1. Data comes from google cloud database (bigquery), issue is to query it takes 
+few minutes. 
+2. Data is available free for only few GBS, which I have exceeded in only few 
+queries. We have to get paid service to unlimited data.
+
+There are few more technical issues. 
+
+But we can fix above issues.  
+
+Question we want answer is:
+
+Does GDELT single source information that solves our use case. 
+If yes, then we can concentrate on fixing about issues. 
+
+If GDELT is not comprehensive, then we have to use other sources. 
+
+Pl let me know your thoughts. 
+
+Best,
+Gopi.
